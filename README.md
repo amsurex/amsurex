@@ -21,9 +21,6 @@ In addition, I have programs for various web scrapers. For example, one of them 
 _____
 <h3 align="center">Мои навыки и опыт: </h3>
 
-_____
-
-
 Для визуализации данных я использую библиотеки **Matplotlib**, **Seaborn**. 
 Для создания моделей машинного обучения - **Scikit-learn** и **PyTorch**.
 
