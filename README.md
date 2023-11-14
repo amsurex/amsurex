@@ -35,11 +35,9 @@ _____
 
 <h3 align="left">Connect with me:</h3>
 
-🌺[mail](mailto:annachifranova@gmail.com)
-
-🌺[linkedin](
+🌸[mail](mailto:annachifranova@gmail.com)
+🌸[linkedin](
 https://www.linkedin.com/in/ann-chifranova-489982285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-🌺[telegram](https://t.me/chifr)
+🌸[telegram](https://t.me/chifr)
 
 <h1 align="center">Come more often! 👋</h1>
